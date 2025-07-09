@@ -1,0 +1,4 @@
+az deployment group create \
+  --resource-group <your-rg> \
+  --template-file arm/webapp.json \
+  --parameters webAppName=<name> hostingPlanId=<id>
