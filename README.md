@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.com/logo.png" height="100"/>
+  <img src="https://www.linkedin.com/in/emmanuel-mordi/logo.png" height="100"/>
 </p>
 
 <h1 align="center">Cybermordi Infrastructure</h1>
