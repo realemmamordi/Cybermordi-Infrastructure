@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://your-image-url.com/logo.png" height="100"/>
+</p>
+
+<h1 align="center">Cybermordi Infrastructure</h1>
+<p align="center"><i>Modular, Secure & Scalable Azure Deployments — Powered by IaC</i></p>
+
+
 # Cybermordi-Infrastructure
 Modular, Secure &amp; Scalable Azure Deployments — Powered by IaC
 
